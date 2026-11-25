@@ -1,0 +1,54 @@
+kpi 
+count of employ
+left employee 
+active employee
+count of dept
+attrition rate 
+total  annual salary 
+total of hike amount 
+avg salary
+
+Total Employees
+Active Employees
+Left Employees
+Attrition Rate
+Total Annual Salary
+Average Salary
+Total Hike Amount
+
+
+chart 
+count of employee by age group
+dept wise employees
+num of employtees ny eduction level 
+count of male and female  
+dept male and female
+job role wise employees
+maritial status 
+salry slab 
+experience level 
+
+
+Employee by Age Group
+Department Wise Employees
+Education Level
+Gender Distribution
+Attrition by Department
+Salary by Job Role
+Job Satisfaction
+Experience Level
+Overtime Analysis
+
+slicer
+dept 
+gender
+job role 
+
+Department
+Job Role
+Attrition
+Gender
+Age Group
+Job Level
+Over Time
+Experience Level
